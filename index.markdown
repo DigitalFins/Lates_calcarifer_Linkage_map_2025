@@ -19,8 +19,9 @@ In this supplementary material we cover all the code for data processing and ana
 
 ### Data preparation
 
-1. [Making linkage map](example_knitted.html)
-2. [Making figures](example_knitted.html)
+1. [Creating LepMAP3 input files](addhtmlhere)
+2. [Making linkage map](example_knitted.html)
+3. [Making figures](example_knitted.html)
 
 ### R and packages version summary
 
