@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Code for: Barramundi Linkage Map (Hintzsche et al. 2026)
+title: Code for: Barramundi Linkage Map by Hintzsche et al. 2026
 ---
 
 Code and supplementary materials for the manuscript ***Genetic linkage map of the Australian barramundi (Lates calcarifer) reveals potential to leverage extreme sex-specific recombination and sequential hermaphrodism for ultimate breeding program control***,
