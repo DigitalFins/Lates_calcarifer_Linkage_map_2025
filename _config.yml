@@ -1,5 +1,5 @@
 title: "Code for: Barramundi Linkage Map by Hintzsche et al. 2026"
 description: A Jekyll site for building the Barramundi Linkage Map
-baseurl: ""       # leave blank for project sites unless using a subpath
-url: ""           # leave blank for local preview
+baseurl: "/Lates_calcarifer_Linkage_map_2025"
+url: "https://digitalfins.github.io"
 theme: minima     # or any theme you like
