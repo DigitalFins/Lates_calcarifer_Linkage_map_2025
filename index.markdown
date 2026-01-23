@@ -7,7 +7,7 @@ title: Code for: Barramundi Linkage Map by Hintzsche et al. 2026
 ---
 
 Code and supplementary materials for the manuscript ***Genetic linkage map of the Australian barramundi (Lates calcarifer) reveals potential to leverage extreme sex-specific recombination and sequential hermaphrodism for ultimate breeding program control***,
-by Jessica Hintzsche, Lorenzo Vincenzo Bertola, David B. Jones, Christie Warburton, Owen Powell, Elizabeth M. Ross, Paul Harrison, Holly Cate, Dean R. Jerry, Ben J. Hayes, Kyall R. Zenger, currently available as a preprint at [https://doi.org/10.21203/rs.3.rs-8400904/v1].
+by Jessica Hintzsche, Lorenzo Vincenzo Bertola, David B. Jones, Christie Warburton, Owen Powell, Elizabeth M. Ross, Paul Harrison, Holly Cate, Dean R. Jerry, Ben J. Hayes, Kyall R. Zenger, currently available as a preprint at [https://doi.org/10.21203/rs.3.rs-8400904/v1](https://doi.org/10.21203/rs.3.rs-8400904/v1).
 
 
 # Decide a graphical abstract, add to home, insert between ()
