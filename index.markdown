@@ -15,18 +15,22 @@ by Jessica Hintzsche, Lorenzo Vincenzo Bertola, David B. Jones, Christie Warburt
 
 ## Structure
 
-In this supplementary material we cover all the code for data processing and analyses. The code is organised ... (add details)
+In this supplementary material, we cover all the code for data processing and analyses. The code is organised in a step-wise manner that begins with how the input files for Lep-MAP3 were created and then goes into how Lep-MAP3 was used to filter, sort, and then order the markers on chromosomes. I then have a script that pulls all of the highest likelihood runs of each chromosome for each sex into a single map.
 
 ### Data preparation
 
-1. [Creating LepMAP3 input files](addhtmlhere)
-2. [Making linkage map](example_knitted.html)
-3. [Making figures](example_knitted.html)
+1. [Creating LepMAP3 input files](Github_1.Establishing_family_files.html)
+2. [Lep-MAP3 Filtering](Github_2.Lep-MAP3_Filtering_data.html)
+
+### Creating the maps
+3. [Lep-MAP3 Separate into chromosomes](Github_3.Lep-MAP3_Separate_chromosomes.html)
+4. [Lep-MAP3 Order markers](Github_4.Lep-MAP3_order_markers.html)
+5. [Building the maps](Github_5.Building_the_maps.html)
 
 ### R and packages version summary
 
 3. [Version summary](example_knitted.html)
 
-Thanks for your interest in our paper, whether it comes from a love for barramundi, acquaculture, or genetics.
+Thanks for your interest in our paper, whether it comes from a love for barramundi, aquaculture, or genetics.
 
-For further detail on any of the code, please contact me at:[email me](mailto:add.your.email.here.if.you.want@blablabla.com)!
+For further details on any of the code, please contact me at: [email me](mailto:j.hintzsche@uq.edu.au)!
